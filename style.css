@@ -1,0 +1,9 @@
+#container {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.gridSquares {
+  background-color: gray;
+  border: 1px solid #333;
+}
